@@ -7,7 +7,7 @@ services:
     startCommand: python3 -m bot
     repo: https://github.com/oVo-HxBots/Utubeitbot.git
     branch: master
-    plan: pro ultra
+    plan: free
     envVars:
       - key: API_ID 
         sync: false
